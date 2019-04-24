@@ -79,3 +79,6 @@
 	compactionHeuristic = true
 [url "git@github.com:"]
 	insteadOf = https://github.com/
+[user]
+	name = Dylan Lewis
+	email = dylanlewis89@gmail.com
