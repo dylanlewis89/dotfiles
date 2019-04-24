@@ -1,3 +1,5 @@
+echo "Setting up pip"
+
 pip install --upgrade neovim
 pip install --upgrade typing
 

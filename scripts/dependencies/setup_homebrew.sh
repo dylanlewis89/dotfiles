@@ -1,3 +1,5 @@
+echo "Setting up homebrew"
+
 # install homebrew
 if ! [[ $( which brew ) ]]
 then
